@@ -1,0 +1,10 @@
+This is the root folder for the Control Sheet project.
+
+The project aims to create a computer aid for GMing
+the GURPS 4e Roleplaying game by Steve Jackson Games.
+The aid takes the form of the GM Control Sheet presented
+in the GURPS Campaigns Book. At the very least it will
+replicate the functionality of the Control Sheet.
+Some possible additional features include: reminders
+for various roles for injury, compatiablilty with the
+GCA.
